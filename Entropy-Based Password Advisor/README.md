@@ -32,8 +32,3 @@ Suggestions:
 
 Sample stronger idea: Abc12A1!
 ```
-
-## 📄 Suitable For
-- DRDO Internship Project Submission
-- Cybersecurity beginners demo
-- GitHub portfolio project
