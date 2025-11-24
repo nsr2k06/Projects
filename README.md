@@ -16,8 +16,24 @@ A lightweight C++ cybersecurity mini-project designed for DRDO internship submis
 - C++ (STL)
 - Basic cyber-security logic
 
+## Entropy-Based Password Advisor (C++)
+Enter password: Abc12
+
+
+Estimated Entropy (bits): 28.20
+Rating: Weak
+Breach Check: Not found in small list
+Suggestions:
+1. Increase length (>= 12 recommended)
+2. Add special symbols
+
+
+Sample stronger idea: Abc12A1!
 
 ## 📂 How to Compile
 ```bash
 g++ main.cpp -o advisor
 ./advisor
+
+
+
