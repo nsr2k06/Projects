@@ -101,3 +101,9 @@ A functional to-do list app:
 - Beginner Web Tools & Utilities
 
 ---
+
+## 👤 Author
+
+**Nitin Singh**  
+🚀 Developer • Learner • Coder  
+🔗 **GitHub:** [nsr2k06](https://github.com/nsr2k06)  
