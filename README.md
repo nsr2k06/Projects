@@ -11,7 +11,16 @@ Below is the list of all projects present in this repository:
 
 ---
 
-### 🔢 **1. Calculator (C++)**
+### 📝 **1. ATM System (C++)**
+A console-based ATM simulator that supports:
+- PIN-based user authentication
+- Balance enquiry
+- Cash withdrawal
+- Fast cash options
+- Error handling for invalid PIN or insufficient balance
+**Folder:** `/ATM-System`
+
+### 🔢 **2. Calculator (C++)**
 A simple command-line calculator supporting:  
 - Addition, subtraction  
 - Multiplication, division  
@@ -20,7 +29,7 @@ A simple command-line calculator supporting:
 
 ---
 
-### 🧘 **2. Distraction-Free YouTube**
+### 🧘 **3. Distraction-Free YouTube**
 A browser extension / minimal webpage concept that:  
 - Removes distractions  
 - Shows only the video you want to watch  
@@ -29,7 +38,7 @@ A browser extension / minimal webpage concept that:
 
 ---
 
-### 🔐 **3. Entropy-Based Password Advisor (C++)**
+### 🔐 **4. Entropy-Based Password Advisor (C++)**
 Cybersecurity mini-project with:  
 - Entropy calculation  
 - Weak password detection  
@@ -39,7 +48,7 @@ Cybersecurity mini-project with:
 
 ---
 
-### 🎵 **4. Music Demo Website**
+### 🎵 **5. Music Demo Website**
 A mini responsive frontend project:  
 - Music UI  
 - Clean and aesthetic layout  
@@ -48,7 +57,7 @@ A mini responsive frontend project:
 
 ---
 
-### 📚 **5. PDF Merger (Python)**
+### 📚 **6. PDF Merger (Python)**
 A Python tool to:  
 - Merge multiple PDFs into one  
 - Handle unlimited input files  
@@ -57,7 +66,7 @@ A Python tool to:
 
 ---
 
-### 👤 **6. Personal Portfolio Website**
+### 👤 **7. Personal Portfolio Website**
 A responsive, clean portfolio website to showcase:  
 - Skills  
 - Projects  
@@ -67,7 +76,7 @@ A responsive, clean portfolio website to showcase:
 
 ---
 
-### 🔳 **7. QR Code Generator (Python)**
+### 🔳 **8. QR Code Generator (Python)**
 Generate QR codes instantly:  
 - Text-to-QR conversion  
 - Saves PNG automatically  
@@ -76,14 +85,14 @@ Generate QR codes instantly:
 
 ---
 
-### 🕯️ **8. Tribute Website**
+### 🕯️ **9. Tribute Website**
 A simple tribute page for any personality, ideal for beginners.  
 **Folder:** `/The-Tribute-Website`  
 **Tech:** HTML, CSS
 
 ---
 
-### 📝 **9. To-Do App (JavaScript)**
+### 📝 **10. To-Do App (JavaScript)**
 A functional to-do list app:  
 - Add, delete, mark tasks  
 - Local storage support  
