@@ -1,4 +1,4 @@
-# DRDO Entropy-Based Password Advisor (C++)
+# Entropy-Based Password Advisor (C++)
 
 A lightweight C++ cybersecurity mini-project designed for DRDO internship submission. It evaluates password strength using **entropy**, performs breach checks, and gives **auto-improvement suggestions**.
 
